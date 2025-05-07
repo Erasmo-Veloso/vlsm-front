@@ -41,4 +41,4 @@ Após gerar as sub-redes, o app permite exportar os dados em um arquivo .csv par
 🤝 Contribuição
 Sugestões e melhorias são bem-vindas! Sinta-se à vontade para abrir issues ou pull requests.
 
-📌 Feito com dedicação por [Seu Nome] e [Nome do colega], como parte de um projeto escolar.
+📌 Feito com dedicação por Erasmo Veloso e Dejanir Martins, como parte de um projeto escolar.
